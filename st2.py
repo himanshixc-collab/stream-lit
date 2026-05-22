@@ -37,7 +37,7 @@ gender = st.radio(
 #multiselect
 skills = st.multiselect(
     "Select your skills",
-    ["Python", "Java", "C++", "AI", "Machine Learning"]
+    ["Python", "Java", "C++", "AI", "Machine Learning"])
 
 # Slider input
 # User drags slider between values
